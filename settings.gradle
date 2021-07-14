@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "FFmpegTest"
+rootProject.name = "HelloWorld"

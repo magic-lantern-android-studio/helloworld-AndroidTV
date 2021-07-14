@@ -1,4 +1,4 @@
 <resources>
 
-    <style name="Theme.FFmpegTest" parent="@style/Theme.Leanback" />
+    <style name="Theme.HelloWorldTest" parent="@style/Theme.Leanback" />
 </resources>
