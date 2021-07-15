@@ -19,7 +19,7 @@
 
         <activity
             android:name="com.wizzer.helloworld.HelloWorldActivity"
-            android:banner="@drawable/banner"
+            android:banner="@mipmap/ic_banner"
             android:icon="@mipmap/ic_launcher"
             android:logo="@mipmap/ic_launcher"
             android:screenOrientation="landscape">
